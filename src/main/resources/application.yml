@@ -1,0 +1,8 @@
+# 指定当前项目端口号、配置当前项目的根路径
+server:
+  port: 8899
+  servlet:
+    context-path: /zhang
+spring:
+  profiles:
+    active: dev
