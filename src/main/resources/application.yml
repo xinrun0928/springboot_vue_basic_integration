@@ -2,7 +2,8 @@
 server:
   port: 8899
   servlet:
-    context-path: /zhang
+    context-path: /
+
 spring:
   profiles:
     active: dev
